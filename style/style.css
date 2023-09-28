@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+html{
+    font-size: 10px;
+}
+
+.back{
+    width: 100%;
+}
+    .group{
+        color: whitesmoke;
+        border: 3px solid whitesmoke;
+        border-radius: 10px;
+        padding: 10px;
+        margin-right: 1300px;
+        margin-left: 10px;
+        
+
+    }
+
+    #edu{
+        padding-left: 25px;
+    }
+
+
+.ge{
+    text-decoration: none;
+    margin: 0 15px;
+}
+header{
+    position: fixed;
+    text-align: center;
+    font-size: 17px;
+    background-color: whitesmoke;
+    width: 100%;
+    padding: 30px 0; 
+    
+    
+    
+}
+a:hover{
+    font-size: 18px;
+}
+
+
+h3{
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.reziume{
+    margin-right: 700px;
+   text-decoration: none;
+   
+    }
+    
+    .on{
+        margin: 5px;
+    margin-left: 20px;
+    list-style-type: none;
+    font-size: 14px;
+    margin-top: 10px;
+    
+   
+}
+.select{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.point{
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+input{
+    border-radius: 5px;
+}
+#edu{
+    margin-top: 90px;
+}
+.contact{
+    margin: 5px;
+    margin-left: 10px;
+    list-style-type: none;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.inf{
+    margin-right: 20px;
+    display: inline;
+  
+}
+
+.submit{
+color: white;
+text-decoration: none;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: blue;
+border-radius: 5px;
+width: 500px;
+height: 100px;
+padding: 5px 10px;
+
+}
